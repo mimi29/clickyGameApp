@@ -1,1 +1,1 @@
-# clickyGameApp
+Clicky Game is a memory game that enable user to score points when he/she clicks on an image.  To score a point, the user must clicks on the image once.  If an image is clicked twice, the score is reset to zero. The game also record the highest score that user earned.  This memory game is using reactJS to build it's UI components, it also manage component's state and respond to user events.
