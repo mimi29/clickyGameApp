@@ -14,7 +14,6 @@ class Game extends React.Component {
     }
 
     calculateTopScore(p) {
-        console.log("img idx: " + p);
         let tmpScore = 0;
         const selectedImageIdx = this.state.selectedImageIdx.slice();  // make a copy
         if (selectedImageIdx[p] === 0) {
